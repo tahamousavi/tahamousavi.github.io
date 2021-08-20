@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>My portfolio</title>
-    <link href="https://tahamousavi.github.io/taha.github.io/feed.xml" rel="self" />
-    <link href="https://tahamousavi.github.io/taha.github.io" />
+    <link href="https://tahamousavi.github.io/feed.xml" rel="self" />
+    <link href="https://tahamousavi.github.io" />
     <updated>2021-08-20T19:14:53+04:30</updated>
     <author>
         <name>Taha Mousavi</name>
     </author>
-    <id>https://tahamousavi.github.io/taha.github.io</id>
+    <id>https://tahamousavi.github.io</id>
 
     <entry>
         <title>A happy post :))</title>
         <author>
             <name>Taha Mousavi</name>
         </author>
-        <link href="https://tahamousavi.github.io/taha.github.io/a-happy-post.html"/>
-        <id>https://tahamousavi.github.io/taha.github.io/a-happy-post.html</id>
+        <link href="https://tahamousavi.github.io/a-happy-post.html"/>
+        <id>https://tahamousavi.github.io/a-happy-post.html</id>
 
         <updated>2021-08-20T19:14:53+04:30</updated>
             <summary>
@@ -36,8 +36,8 @@
         <author>
             <name>Taha Mousavi</name>
         </author>
-        <link href="https://tahamousavi.github.io/taha.github.io/hello.html"/>
-        <id>https://tahamousavi.github.io/taha.github.io/hello.html</id>
+        <link href="https://tahamousavi.github.io/hello.html"/>
+        <id>https://tahamousavi.github.io/hello.html</id>
 
         <updated>2021-08-20T18:18:38+04:30</updated>
             <summary>
@@ -49,27 +49,27 @@
             <![CDATA[
                 <p>see thisll</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.22.15-PM.png" data-size="2178x1036"><img loading="lazy" src="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.22.15-PM-thumbnail.png" alt="" width="720" height="342"></a>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.22.15-PM.png" data-size="2178x1036"><img loading="lazy" src="https://tahamousavi.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.22.15-PM-thumbnail.png" alt="" width="720" height="342"></a>
 <figcaption>jghhjgkj</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.27.35-PM.png" data-size="2178x1036"><img loading="lazy" src="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.27.35-PM-thumbnail.png" alt="" width="720" height="342"></a></figure>
-<figure class="gallery__item"><a href="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.31.54-PM.png" data-size="2178x1036"><img loading="lazy" src="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.31.54-PM-thumbnail.png" alt="" width="720" height="342"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.27.35-PM.png" data-size="2178x1036"><img loading="lazy" src="https://tahamousavi.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.27.35-PM-thumbnail.png" alt="" width="720" height="342"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.31.54-PM.png" data-size="2178x1036"><img loading="lazy" src="https://tahamousavi.github.io/media/posts/2/gallery/Screen-Shot-2021-08-18-at-4.31.54-PM-thumbnail.png" alt="" width="720" height="342"></a></figure>
 </div></div>
 <p> </p>
 <p>kjkjkl;l</p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/t-new.png" data-size="1600x1100"><img loading="lazy" src="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/t-new-thumbnail.png" alt="" width="720" height="495"></a></figure>
-<figure class="gallery__item"><a href="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/t-old.png" data-size="1600x1100"><img loading="lazy" src="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/t-old-thumbnail.png" alt="" width="720" height="495"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/2/gallery/t-new.png" data-size="1600x1100"><img loading="lazy" src="https://tahamousavi.github.io/media/posts/2/gallery/t-new-thumbnail.png" alt="" width="720" height="495"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/2/gallery/t-old.png" data-size="1600x1100"><img loading="lazy" src="https://tahamousavi.github.io/media/posts/2/gallery/t-old-thumbnail.png" alt="" width="720" height="495"></a></figure>
 </div></div>
 <p> </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/torob-ui-redesign.png" data-size="2000x1200"><img loading="lazy" src="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/torob-ui-redesign-thumbnail.png" alt="" width="720" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/2/gallery/torob-ui-redesign.png" data-size="2000x1200"><img loading="lazy" src="https://tahamousavi.github.io/media/posts/2/gallery/torob-ui-redesign-thumbnail.png" alt="" width="720" height="432"></a></figure>
 </div></div>
 <p> </p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://tahamousavi.github.io/taha.github.io/media/posts/2/torob-ui-redesign.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/taha.github.io/media/posts/2/responsive/torob-ui-redesign-xs.png 300w ,https://tahamousavi.github.io/taha.github.io/media/posts/2/responsive/torob-ui-redesign-sm.png 480w ,https://tahamousavi.github.io/taha.github.io/media/posts/2/responsive/torob-ui-redesign-md.png 768w ,https://tahamousavi.github.io/taha.github.io/media/posts/2/responsive/torob-ui-redesign-lg.png 1024w ,https://tahamousavi.github.io/taha.github.io/media/posts/2/responsive/torob-ui-redesign-xl.png 1360w ,https://tahamousavi.github.io/taha.github.io/media/posts/2/responsive/torob-ui-redesign-2xl.png 1600w"  alt="" width="2000" height="1200"></figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://tahamousavi.github.io/media/posts/2/torob-ui-redesign.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/2/responsive/torob-ui-redesign-xs.png 300w ,https://tahamousavi.github.io/media/posts/2/responsive/torob-ui-redesign-sm.png 480w ,https://tahamousavi.github.io/media/posts/2/responsive/torob-ui-redesign-md.png 768w ,https://tahamousavi.github.io/media/posts/2/responsive/torob-ui-redesign-lg.png 1024w ,https://tahamousavi.github.io/media/posts/2/responsive/torob-ui-redesign-xl.png 1360w ,https://tahamousavi.github.io/media/posts/2/responsive/torob-ui-redesign-2xl.png 1600w"  alt="" width="2000" height="1200"></figure>
 <p> </p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/torob-ui-redesign-2.png" data-size="2000x1200"><img loading="lazy" src="https://tahamousavi.github.io/taha.github.io/media/posts/2/gallery/torob-ui-redesign-2-thumbnail.png" alt="" width="720" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/2/gallery/torob-ui-redesign-2.png" data-size="2000x1200"><img loading="lazy" src="https://tahamousavi.github.io/media/posts/2/gallery/torob-ui-redesign-2-thumbnail.png" alt="" width="720" height="432"></a></figure>
 </div></div>
 <p>dk</p>
 <p> </p>
@@ -81,8 +81,8 @@
         <author>
             <name>Taha Mousavi</name>
         </author>
-        <link href="https://tahamousavi.github.io/taha.github.io/torob.html"/>
-        <id>https://tahamousavi.github.io/taha.github.io/torob.html</id>
+        <link href="https://tahamousavi.github.io/torob.html"/>
+        <id>https://tahamousavi.github.io/torob.html</id>
 
         <updated>2021-08-20T00:41:08+04:30</updated>
             <summary>
