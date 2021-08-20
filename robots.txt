@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tahamousavi.github.io/taha.github.io/sitemap.xml
