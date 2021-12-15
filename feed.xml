@@ -3,36 +3,109 @@
     <title>Taha Mousavi</title>
     <link href="https://tahamousavi.github.io/feed.xml" rel="self" />
     <link href="https://tahamousavi.github.io" />
-    <updated>2021-11-25T14:25:02+03:30</updated>
+    <updated>2021-12-15T20:21:10+03:30</updated>
     <author>
         <name>Taha Mousavi</name>
     </author>
     <id>https://tahamousavi.github.io</id>
 
     <entry>
-        <title>Illustration for Torob</title>
+        <title>About Me</title>
         <author>
             <name>Taha Mousavi</name>
         </author>
-        <link href="https://tahamousavi.github.io/illustration-for-torob.html"/>
-        <id>https://tahamousavi.github.io/illustration-for-torob.html</id>
-            <category term="Drawing"/>
+        <link href="https://tahamousavi.github.io/about-me-cv.html"/>
+        <id>https://tahamousavi.github.io/about-me-cv.html</id>
 
-        <updated>2021-11-23T22:27:39+03:30</updated>
+        <updated>2021-12-15T20:21:10+03:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tahamousavi.github.io/media/posts/9/torob-illustration-cover.png" alt="" />
-                <p> </p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://tahamousavi.github.io/media/posts/9/torob-illustration-part-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-2xl.png 1600w"  alt="" width="1600" height="1200"></figure>
+                <h4><span data-preserver-spaces="true">My name is <strong>Taha Mousavi</strong>.</span></h4>
+<h4><span data-preserver-spaces="true">In 10 years, I've worked as the first and sole product designer in the most successful startups in Iran like; </span><a target="_blank" href="https://www.linkedin.com/company/divarofficial/about/" class="editor-rtfLink" rel="noopener"><em><span data-preserver-spaces="true">Divar</span></em></a><span data-preserver-spaces="true">, </span><a target="_blank" href="https://www.linkedin.com/company/tapsi/about/" class="editor-rtfLink" rel="noopener"><em><span data-preserver-spaces="true">TAPSI</span></em></a><span data-preserver-spaces="true">, </span><a target="_blank" href="https://www.linkedin.com/company/torob/about/" class="editor-rtfLink" rel="noopener"><em><span data-preserver-spaces="true">Torob</span></em></a><span data-preserver-spaces="true">, and </span><a target="_blank" href="https://www.linkedin.com/company/porsline/about/" class="editor-rtfLink" rel="noopener"><em><span data-preserver-spaces="true">Porsline</span></em></a><span data-preserver-spaces="true">.</span></h4>
+<p><span data-preserver-spaces="true">After working as a multi-disciplinary designer and designing products used by millions of Iranian people, I am eager to work with international and multicultural companies to learn more about other </span>cultures and nations and design products with and for them.</p>
+<p><strong><a href="https://tahamousavi.github.io/Taha Mousavi CV.pdf" target="_blank" rel="noopener noreferrer" download>[ Download CV ]</a></strong><br><strong><a href="https://www.linkedin.com/in/tahamousavi/" target="_blank" rel="noopener noreferrer">[ Linkedin ]</a></strong><br>Email: taha.mousavi@gmail.com</p>
+<hr>
+<h3>EXPERIENCE</h3>
+<h4><a target="_blank" href="https://www.linkedin.com/company/porsline/about/" rel="noopener">Porsline</a>, Director Of Product Design, 2021 – Present</h4>
+<p>After a successful lunch in July 2017, I have rejoined Porsline in 2021 to lead product design. Porsline is a SaaS company for creating online surveys, which helps companies in market research, customer experience research, and employee surveys.</p>
+<ul style="list-style-type: square;">
+<li>Adapting products for lunch in the Middle East countries.</li>
+<li>Branching design to the market research team to improve the products for more diverse users and new business demands.</li>
+<li>Deciding on the design process and user research methods.</li>
+</ul>
+<p><a target="_blank" href="https://porsline.com/" rel="noopener">Porsline Website</a></p>
+<h4><a target="_blank" href="https://www.linkedin.com/company/torob/about/" rel="noopener">Torob</a>, Senior Product Designer, 2020 – 2021, Contracted</h4>
+<p>Torob is a shopping search engine that allows users to find the best price of products in online stores in Iran. I joined Torob startup and directly worked with the Founder, CTO, and 4 Engineers to redesign products. </p>
+<ul style="list-style-type: square;">
+<li>Redesigning overall interfaces of the Torob website and Android app.</li>
+<li>Creating two revenue streams by redesigning core experiences.</li>
+<li>Developing a data-driven approach in product design.</li>
+<li>Improving UX by several A/B tests.</li>
+</ul>
+<p><a target="_blank" href="https://torob.com/" rel="noopener">Torob Website</a>, <a target="_blank" href="https://play.google.com/store/apps/details?id=ir.torob&amp;hl=en&amp;gl=US" rel="noopener">Torob app on Google Play</a> </p>
+<h4><a target="_blank" href="https://www.linkedin.com/company/mia.re/about/" rel="noopener">Miare</a>, Senior Product Designer, 2018 - 2021</h4>
+<p>Miare is an on-demand delivery solution for restaurants. As the sole designer in the startup team, I designed the interface and experience of four products from scratch; Restaurant web app, Courier android app, and two web panels for live fleet monitoring.</p>
+<p>From the first days, we had a problem-solving mindset, did several usability tests, and got a data-driven approach to product design. During four years, I have done these jobs:</p>
+<ul style="list-style-type: square;">
+<li>Designing four products from scratch on web and android platforms.</li>
+<li>Creating several prototypes for user research.</li>
+<li>Planning several usability tests for evaluating design ideas.</li>
+<li>Deciding on the UX methods and design process.</li>
+<li>Communicating with other teams and getting feedback.</li>
+</ul>
+<p><a target="_blank" href="https://landing.mia.re/" rel="noopener">Miare Website</a></p>
+<h4><a target="_blank" href="https://www.linkedin.com/company/tapsi/about/" rel="noopener">TAPSI</a>, Product Designer, 2017 - 2018</h4>
+<p>In the Tap30 startup team, I designed MVPs and prototypes of passengers apps.</p>
+<ul style="list-style-type: square;">
+<li>Designing UI and UX of passenger and driver apps.</li>
+<li>Planning and performing tests for evaluating design ideas.</li>
+</ul>
+<p><a target="_blank" href="https://play.google.com/store/apps/details?id=taxi.tapsi.passenger&amp;hl=en&amp;gl=US" rel="noopener">TAPSI app on Google Play</a></p>
+<h4><a target="_blank" href="https://www.linkedin.com/company/porslineir/about/" rel="noopener">Porsline</a>, Product Designer, 2016 - 2017</h4>
+<p>Porsline is a SaaS startup for building forms and surveys. We designed and developed MVP by Founder, CTO, and two engineers for six months and successfully lunch the product.</p>
+<ul style="list-style-type: square;">
+<li>Designing prototypes for user and market research.</li>
+<li>Designing UI and UX of a SaaS product from scratch.</li>
+<li>Successful lunch of product.</li>
+</ul>
+<p><a target="_blank" href="https://porsline.com/" rel="noopener">Porsline Website</a></p>
+<h4><a target="_blank" href="https://www.linkedin.com/company/divarofficial/about/" rel="noopener">Divar</a>, Product Designer, 2015 – 2016</h4>
+<p>As the only designer in Divar, I was responsible for the design of all client-side products. I worked with PMs and engineers to improve the users' experience and create consistency in the user interface on all products.</p>
+<ul style="list-style-type: square;">
+<li>Redesigning interface of iOS, Android, and web app.</li>
+<li>Evangelizing user experience design and data-driven approach to product design.</li>
+<li>Improving user experiences on the iOS app by gathering and analyzing data.</li>
+</ul>
+<p><a target="_blank" href="https://divar.ir/s/tehran" rel="noopener">Divar Website</a>, <a target="_blank" href="https://apps.apple.com/us/app/divar/id1492874203#?platform=iphone" rel="noopener">Divar app on App Store</a>, <a target="_blank" href="https://play.google.com/store/apps/details?id=ir.divar&amp;hl=en&amp;gl=US" rel="noopener">Divar app on Google Play</a></p>
+<h4>Cafe Bazaar, Product Designer, 2014 – 2015</h4>
+<p>I was responsible for user interface design, visual design, and Front-End Development of the Aada product. I worked directly with PM to make prototypes, do usability tests.</p>
+<h4>ViraTech Sharif, UI Designer, 2012 – 2014 </h4>
+<p>I designed the user interface of two Android apps and two web apps.</p>
+<h3>SKILLS</h3>
+<ul style="list-style-type: square;">
+<li>Designing high-fidelity interface with Sketch, Figma, and Axure.</li>
+<li>Planning and performing Usability Test and User Interview.</li>
+<li>Working experience with different UX and research methods: A/B Test, Persona building, Field Study, Journey Mapping, Writing User Stories, Surveys.</li>
+<li>Analyzing data with Amplitude, Google Analytics, and Microsoft Excel.</li>
+<li>Designing Prototype with inVision, Principle, and Framer.</li>
+<li>Product and task management with Jira, Trello, GitLab, and ClickUp.</li>
+<li>Working experience with Adobe Illustrator, Photoshop, and Procreate for visual design.</li>
+<li>Web development with HTML and CSS.</li>
+<li>Familiar with declarative user interface development like React and SwiftUI.</li>
+<li>Familiar with Processing language and Generative Art.</li>
+</ul>
+<h3>EDUCATION</h3>
+<p><strong>Sharif University of Technology,</strong> Master of Science, Aerospace Engineering, 2009 - 2011</p>
+<p><strong>Civil Aviation Technology College,</strong> Bachelor of Science, Aircraft Maintenance Engineering, 2005 – 2009</p>
+<h3>PUBLICATIONS</h3>
+<p>"The Effect of Small Scale on the Pull-in Instability of Nano-Switches Using DQM", International Journal of Solids and Structures, 2013, Citation Indexes: 61</p>
+<p>"Nonlinear Dynamic Analysis of SWNTs Conveying Fluid Using Nonlocal Continuum Theory" Structural Engineering and Mechanics, 2018</p>
+<h3>COURSES</h3>
+<p><strong>Human-Computer Interaction</strong> at Coursera, UC San Diego, The Design Lab</p>
+<p><strong>Creative Programming</strong> at Coursera, Goldsmiths, University of London</p>
 <p> </p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://tahamousavi.github.io/media/posts/9/torob-illustration-part-1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-2xl.png 1600w"  alt="" width="1600" height="1200"></figure>
 <p> </p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://tahamousavi.github.io/media/posts/9/torob-illustration-shot-1-3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-2xl.png 1600w"  alt="" width="1600" height="1200"></figure>
-<p> </p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://tahamousavi.github.io/media/posts/9/torob-illustration-shot-3-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-2xl.png 1600w"  alt="" width="1600" height="1200"></figure>
-<p> </p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://tahamousavi.github.io/media/posts/9/torob-illustration-shot-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-2xl.png 1600w"  alt="" width="1600" height="1200"></figure>
             ]]>
         </content>
     </entry>
@@ -43,9 +116,9 @@
         </author>
         <link href="https://tahamousavi.github.io/redeig.html"/>
         <id>https://tahamousavi.github.io/redeig.html</id>
-            <category term="Design"/>
+            <category term="Product Design"/>
 
-        <updated>2021-11-22T20:33:17+03:30</updated>
+        <updated>2021-12-15T14:34:55+03:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -171,7 +244,6 @@
 <figure class="post__image" ><img loading="lazy" src="https://tahamousavi.github.io/media/posts/3/Torob-offer-design.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/3/responsive/Torob-offer-design-xs.png 300w ,https://tahamousavi.github.io/media/posts/3/responsive/Torob-offer-design-sm.png 480w ,https://tahamousavi.github.io/media/posts/3/responsive/Torob-offer-design-md.png 768w ,https://tahamousavi.github.io/media/posts/3/responsive/Torob-offer-design-lg.png 1024w ,https://tahamousavi.github.io/media/posts/3/responsive/Torob-offer-design-xl.png 1360w ,https://tahamousavi.github.io/media/posts/3/responsive/Torob-offer-design-2xl.png 1600w"  alt="" width="1600" height="1200">
 <figcaption >Rise of clicks of Buy Button on Offer tab</figcaption>
 </figure>
-<p> </p>
 <p><strong><span data-preserver-spaces="true">2. Improving The On-Boarding Of New Users:</span></strong><span data-preserver-spaces="true"> The new version cause a slight rise in retention and session time.</span></p>
 <p><strong><span data-preserver-spaces="true">3. A New Playground For Marketing: </span></strong><span data-preserver-spaces="true">The new design allowed the marketing team to be more creative in creating the contents of the app. It allowed them to show reactions to trends and new products and presented them in more attractive ways for the Window Shopper persona. </span></p>
 <p> </p>
@@ -179,76 +251,60 @@
         </content>
     </entry>
     <entry>
-        <title>About Me</title>
+        <title>Commissioned Illustrations</title>
         <author>
             <name>Taha Mousavi</name>
         </author>
-        <link href="https://tahamousavi.github.io/about-me-cv.html"/>
-        <id>https://tahamousavi.github.io/about-me-cv.html</id>
+        <link href="https://tahamousavi.github.io/illustration-for-torob.html"/>
+        <id>https://tahamousavi.github.io/illustration-for-torob.html</id>
+            <category term="Illustration"/>
 
-        <updated>2021-11-25T14:25:02+03:30</updated>
+        <updated>2021-12-15T14:34:44+03:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p><span data-preserver-spaces="true">My name is <strong>Taha Mousavi</strong>. </span>In 10 years, I've worked as the sole designer in the most successful startups in Iran like; <a target="_blank" href="https://www.linkedin.com/company/divarofficial/about/" rel="noopener">Divar</a>, <a target="_blank" href="https://www.linkedin.com/company/tapsi/about/" rel="noopener">TAPSI</a>, <a target="_blank" href="https://www.linkedin.com/company/torob/about/" rel="noopener">Torob</a>, and <a target="_blank" href="https://www.linkedin.com/company/porsline/about/" rel="noopener">Porsline</a>. After working as a multi-disciplinary product designer and creating products for millions of Iranian people, I am eager to work with international and multicultural companies to learn more about other cultures and nations and design things with and for them.</p>
+                    <img src="https://tahamousavi.github.io/media/posts/9/Commissioned-Illustrations-cover.png" alt="" />
+                <h2> </h2>
+<h2>Porsline</h2>
+<h4>I developed some characters and an illustration style for Porsline company for a SaaS product. These illustrations showed on messages, tutorials, and empty state of pages.</h4>
+<p>Client: Porsline<br><span data-preserver-spaces="true">2019 - 2021</span></p>
+<p> </p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/porsline-illustration-upgrade.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-upgrade-xs.png 300w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-upgrade-sm.png 480w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-upgrade-md.png 768w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-upgrade-lg.png 1024w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-upgrade-xl.png 1360w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-upgrade-2xl.png 1600w"  alt="" width="1600" height="1024">
+<figcaption >An upgrade message</figcaption>
+</figure>
+<p> </p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/porsline-illustration-no-image-in-gallery.png" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-no-image-in-gallery-xs.png 300w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-no-image-in-gallery-sm.png 480w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-no-image-in-gallery-md.png 768w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-no-image-in-gallery-lg.png 1024w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-no-image-in-gallery-xl.png 1360w ,file:///Users/taha/Documents/Publii/sites/taha-mousavi/input/media/posts/10/responsive/porsline-illustration-no-image-in-gallery-2xl.png 1600w"  alt="" width="1600" height="1024">
+<figcaption >"There is no image in the gallery."</figcaption>
+</figure>
+<p> </p>
 <hr>
-<h2><span data-preserver-spaces="true">Taha Mousavi</span></h2>
-<h4><strong>Senior Product Designer</strong></h4>
-<p><span data-preserver-spaces="true">taha.mousavi@gmail.com</span><br><span data-preserver-spaces="true">+98 912 776 6700</span><br>Tehran, Iran</p>
-<h3><span data-preserver-spaces="true">EXPERIENCE</span></h3>
-<h4><a target="_blank" href="https://www.linkedin.com/company/porsline/about/" class="editor-rtfLink" rel="noopener">Porsline</a>, Head Of Product Design (2021 - Present)</h4>
-<ul>
-<li><span data-preserver-spaces="true">Redesigning product for lunch in the middle east.</span></li>
-<li><span data-preserver-spaces="true">Building a design team.</span></li>
-<li><span data-preserver-spaces="true">Branching design to the market research team.</span></li>
-</ul>
-<h4><a target="_blank" href="https://www.linkedin.com/company/torob/about/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Torob</span></a><span data-preserver-spaces="true">, Senior Product Designer (2019 - 2021)</span></h4>
-<ul>
-<li><span data-preserver-spaces="true">Redesigning UI and UX of the Torob website and Android app.</span></li>
-<li><span data-preserver-spaces="true">Two stable rises in revenue by redesigning core experiences.</span></li>
-<li><span data-preserver-spaces="true">Developing a data-driven approach in product design.</span></li>
-<li><span data-preserver-spaces="true">Improving UX by several A/B tests.</span></li>
-</ul>
-<h4><a target="_blank" href="https://www.linkedin.com/company/mia.re/about/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Miare</span></a><span data-preserver-spaces="true">, Senior Product Designer (2017 - 2019)</span></h4>
-<ul>
-<li><span data-preserver-spaces="true">Designing restaurant web app and driver Android app from scratch.</span></li>
-<li><span data-preserver-spaces="true">Designing prototypes for user research.</span></li>
-<li><span data-preserver-spaces="true">Improving UX of restaurant and driver app by several usability tests and heuristic evaluation.</span></li>
-</ul>
-<h4><a target="_blank" href="https://www.linkedin.com/company/porslineir/about/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Porsline</span></a><span data-preserver-spaces="true">, product Designer (2016 - 2017)</span></h4>
-<ul>
-<li><span data-preserver-spaces="true">Designing prototypes for user and market research.</span></li>
-<li><span data-preserver-spaces="true">Designing UI and UX of a SaaS product from scratch.</span></li>
-<li><span data-preserver-spaces="true">Successful lunch of product.</span></li>
-</ul>
-<h4><a target="_blank" href="https://www.linkedin.com/company/tapsi/about/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">TAPSI</span></a><span data-preserver-spaces="true">, Product Designer (2015 - 2016)</span></h4>
-<ul>
-<li><span data-preserver-spaces="true">Redesigning UI and UX of passenger and driver app.</span></li>
-</ul>
-<h4><a target="_blank" href="https://www.linkedin.com/company/divarofficial/about/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Divar</span></a><span data-preserver-spaces="true">, Product Designer (2014 - 2015)</span></h4>
-<ul>
-<li><span data-preserver-spaces="true">Redesigning UI of iOS, Android, and web app.</span></li>
-<li><span data-preserver-spaces="true">Evangelizing UX design and data-driven approach to product design.</span></li>
-</ul>
-<h4><span data-preserver-spaces="true">Cafe Bazaar</span><span data-preserver-spaces="true">, Product Designer (2012 - 2014)</span></h4>
-<h4><span data-preserver-spaces="true">ViraTech Sharif, UI Designer (2010 - 2012)</span></h4>
-<p><span data-preserver-spaces="true"> </span></p>
-<h3><span data-preserver-spaces="true">EDUCATION</span></h3>
-<p><strong>Sharif University of Technology,</strong> Master of Science in Aerospace Engineering, 2009 - 2012</p>
-<h3><span data-preserver-spaces="true">PUBLICATIONS</span></h3>
-<p><span data-preserver-spaces="true">"The Effect of Small Scale on the Pull-in Instability of Nano-Switches Using DQM"</span><br>International Journal of Solids and Structures, <em><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0020768312005045" rel="noopener">Volume 50, Issue 9, 1 May 2013, Pages 1193–1202</a></em></p>
-<h3><span data-preserver-spaces="true">SKILLS</span></h3>
-<p><strong><span data-preserver-spaces="true">UI Design:</span></strong><span data-preserver-spaces="true"> Sketch, Figma, Adobe XD</span><br><strong>UX Design:</strong> Usability Testing, Prototyping, User Research<br><strong><span data-preserver-spaces="true">Design Implementation:</span></strong><span data-preserver-spaces="true"> InVision, Zeplin, Axure</span><br><strong><span data-preserver-spaces="true">Visual Design:</span></strong><span data-preserver-spaces="true"> Illustrator, Photoshop, Procreate</span><br><strong><span data-preserver-spaces="true">Interaction Design:</span></strong><span data-preserver-spaces="true"> Principle App, After Effect, Framer</span><br><strong><span data-preserver-spaces="true">Development:</span></strong><span data-preserver-spaces="true"> HTML, CSS</span></p>
-<h3><span data-preserver-spaces="true">COURSES</span></h3>
-<p><strong><span data-preserver-spaces="true">Human-Computer Interaction</span></strong><span data-preserver-spaces="true"> at Coursera, UC San Diego, The Design Lab</span><br><strong><span data-preserver-spaces="true">Creative Programming</span></strong><span data-preserver-spaces="true"> at Coursera, Goldsmiths, University of London</span></p>
-<p><span data-preserver-spaces="true"> </span></p>
-<p><span data-preserver-spaces="true"> </span></p>
-<p><span data-preserver-spaces="true"> </span></p>
-<p class="p2"> </p>
-<div>
-<p data-usually-unique-id="394886152681419319091541"> </p>
-</div>
-<div> </div>
+<h2> </h2>
+<h2>Torob</h2>
+<h4>Yummy Radish is an illustration style commissioned by Torob* to create a landing page for the business panel. And some illustrations on the website for the empty state of pages. </h4>
+<p>* Torob means radish in Persian language</p>
+<p>Client: <a href="https://www.linkedin.com/company/torob/">Torob</a><br>2019 - 2021</p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://tahamousavi.github.io/media/posts/9/torob-illustration-part-1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-1-2xl.png 1600w"  alt="" width="1600" height="1200">
+<figcaption >Illustration for business panel landing page</figcaption>
+</figure>
+<p> </p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://tahamousavi.github.io/media/posts/9/torob-illustration-shot-1-3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-1-3-2xl.png 1600w"  alt="" width="1600" height="1200">
+<figcaption >Screenshot of business panel landing page</figcaption>
+</figure>
+<p> </p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://tahamousavi.github.io/media/posts/9/torob-illustration-shot-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-2-2xl.png 1600w"  alt="" width="1600" height="1200">
+<figcaption >Screenshot of business panel landing page</figcaption>
+</figure>
+<p> </p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://tahamousavi.github.io/media/posts/9/torob-illustration-part-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-part-2-2xl.png 1600w"  alt="" width="1600" height="1200">
+<figcaption >Illustration for empty stats on website</figcaption>
+</figure>
+<p> </p>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://tahamousavi.github.io/media/posts/9/torob-illustration-shot-3-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-xs.png 300w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-sm.png 480w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-md.png 768w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-lg.png 1024w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-xl.png 1360w ,https://tahamousavi.github.io/media/posts/9/responsive/torob-illustration-shot-3-2-2xl.png 1600w"  alt="" width="1600" height="1200">
+<figcaption >Empty state of favorite products page on website</figcaption>
+</figure>
+<h2> </h2>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
