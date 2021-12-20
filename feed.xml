@@ -3,7 +3,7 @@
     <title>Taha Mousavi</title>
     <link href="https://tahamousavi.github.io/feed.xml" rel="self" />
     <link href="https://tahamousavi.github.io" />
-    <updated>2021-12-16T21:41:34+03:30</updated>
+    <updated>2021-12-20T16:15:21+03:30</updated>
     <author>
         <name>Taha Mousavi</name>
     </author>
@@ -117,7 +117,7 @@
         <id>https://tahamousavi.github.io/redeig.html</id>
             <category term="Product Design"/>
 
-        <updated>2021-12-16T21:40:18+03:30</updated>
+        <updated>2021-12-20T01:27:07+03:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -260,12 +260,12 @@
         <id>https://tahamousavi.github.io/product-design-at-miare-2.html</id>
             <category term="Product Design"/>
 
-        <updated>2021-12-16T21:27:11+03:30</updated>
+        <updated>2021-12-20T01:26:53+03:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://tahamousavi.github.io/media/posts/15/miare-cover.webp" alt="" />
-                <p><strong><span data-preserver-spaces="true">Company:</span></strong><span data-preserver-spaces="true"> <a href="https://www.linkedin.com/company/mia.re/about/" target="_blank" rel="noopener noreferrer">Miare</a></span><br><strong><span data-preserver-spaces="true">Products:</span></strong><span data-preserver-spaces="true"> Restaurant Web App, Courier Android App, Fleet Monitoring Panels</span><br><strong><span data-preserver-spaces="true">My role:</span></strong><span data-preserver-spaces="true"> User Researcher, UI designer, UX designer, and Product Manager</span><br><strong><span data-preserver-spaces="true">Team:</span></strong><span data-preserver-spaces="true"> 4 Engineers, 2 Co-Founders, CTO, Myself </span><br><span data-preserver-spaces="true">2018 - 2021 (4 years)</span></p>
+                <p><strong><span data-preserver-spaces="true">Company:</span></strong><span data-preserver-spaces="true"> <a href="https://www.linkedin.com/company/mia.re/about/" target="_blank" rel="noopener noreferrer">Miare</a></span><br><strong><span data-preserver-spaces="true">Products:</span></strong><span data-preserver-spaces="true"> Restaurant Web App, Courier Android App, Fleet Monitoring Panels, <a href="https://github.com/miare-ir/Milingo" target="_blank" rel="noopener noreferrer">Design System</a></span><br><strong><span data-preserver-spaces="true">My role:</span></strong><span data-preserver-spaces="true"> User Researcher, UI designer, UX designer, and Product Manager</span><br><strong><span data-preserver-spaces="true">Team:</span></strong><span data-preserver-spaces="true"> 4 Engineers, 2 Co-Founders, CTO, Myself </span><br><span data-preserver-spaces="true">2018 - 2021 (4 years)</span></p>
 <h2><span data-preserver-spaces="true">Introduction</span></h2>
 <p><span data-preserver-spaces="true">Miare is an on-demand delivery solution for restaurants. As the sole designer in the startup team, I designed the interface and experience of four products from scratch; Restaurant web app, Courier android app, and two web panels for live fleet monitoring.</span></p>
 <p><span data-preserver-spaces="true">Miare was a fast-growing startup and we encountered many challenges and complex problems in products and business. So from the first days, we had a problem-solving mindset, did several usability tests, and got a data-driven approach in product design and developments. </span></p>
@@ -344,6 +344,68 @@
 <h2>Designing <span data-preserver-spaces="true">Fleet Monitoring Panel</span></h2>
 <p> </p>
 <p>🚧 I will write it soon. 🚧</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kashi: A Design System</title>
+        <author>
+            <name>Taha Mousavi</name>
+        </author>
+        <link href="https://tahamousavi.github.io/kashi-a-design-language.html"/>
+        <id>https://tahamousavi.github.io/kashi-a-design-language.html</id>
+            <category term="Product Design"/>
+
+        <updated>2021-12-20T16:15:21+03:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tahamousavi.github.io/media/posts/16/Kashi-design-language-cover.webp" alt="Kashi: A Design Language" />
+                <p><strong><span data-preserver-spaces="true">Company:</span></strong><span data-preserver-spaces="true"> <a href="https://www.linkedin.com/company/mia.re/about/" target="_blank" rel="noopener noreferrer">Miare</a></span><br><strong><span data-preserver-spaces="true">Products:</span></strong><span data-preserver-spaces="true"> <a href="https://github.com/miare-ir/Milingo" target="_blank" rel="noopener noreferrer">Kashi</a> (code name: Milingo)</span><br><strong><span data-preserver-spaces="true">My role:</span></strong><span data-preserver-spaces="true"> UI designer, Product Manager</span><br><strong><span data-preserver-spaces="true">Team:</span></strong><span data-preserver-spaces="true"> 4 Engineers, Myself </span><br><span data-preserver-spaces="true">2019 - 2020</span></p>
+<p><a href="https://github.com/miare-ir/Milingo" target="_blank" rel="noopener noreferrer">[Source code]</a>  <a href="https://miare-ir.github.io/Milingo" target="_blank" rel="noopener noreferrer">[Live demo on Storybook]</a></p>
+<h2>Introduction</h2>
+<p><strong>Kashi</strong> is a design system. It is developed to support the interface design of Miare products. As I explained here, after developing MVPs and the primary version of the restaurant panel, we decided to develop a design system to keep consistency through all future products. The source code of <strong>Kashi</strong> is open and developed in React.</p>
+<p><strong>Kashi</strong> is the equivalent of Tile (glazed brick) in the Persian language. Tiling is a prominent ornamental element in Iranian architecture. The name of <strong>Kashi</strong> is inspired by these wonderful decorations in the below images which are made by putting thousands pieces of tile together. <strong>Kashi</strong> (Tile) is like an atom in Atomic Design methodology.</p>
+<figure class="post__image" ><img src="https://tahamousavi.github.io/media/posts/16/mostafa-meraji-fJAdX7tU-Co-unsplash.jpg" alt="" width="1920" height="1280">
+<figcaption >Tiling of The Shah Mosque in Isfahan. Photo by Mostafa Meraji</figcaption>
+</figure>
+<figure class="post__image" ><img src="https://tahamousavi.github.io/media/posts/16/faruk-kaymak-CNVvDjVDiVI-unsplash.jpg" alt="" width="1920" height="1194">
+<figcaption >Tiling of Sheikh Lotfollah Mosque, Isfahan. Photo by <a href="https://unsplash.com/@fkaymak?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank" rel="noopener noreferrer">Faruk Kaymak</a></figcaption>
+</figure>
+<h2> </h2>
+<h2>Storybook</h2>
+<p>A live demo of React components is available on <a href="https://miare-ir.github.io/Milingo">Storybook</a>.</p>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/16/Kasi-storybook.webp" alt="" width="1600" height="1200"></figure>
+<p> </p>
+<h2>Styles</h2>
+<p> </p>
+<h3 class="align-left">Typography</h3>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/16/Kasi-Typography-2.webp" alt="" width="1600" height="1494"></figure>
+<h3> </h3>
+<h3>Colors</h3>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/16/Kasi-colors-2.webp" alt="" width="1600" height="2480"></figure>
+<h3> </h3>
+<h3>Spacing</h3>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/16/Kasi-Spacing.webp" alt="" width="1600" height="824"></figure>
+<h2> </h2>
+<p> </p>
+<h2>Components</h2>
+<p> </p>
+<h3>Button</h3>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/16/Kasi-button.webp" alt="" width="1600" height="1532"></figure>
+<h3> </h3>
+<h3>Radio Button, Checkbox, Select, Tag</h3>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/16/Kasi-component-n1.webp" alt="" width="1600" height="1265"></figure>
+<p> </p>
+<h3>Text Field</h3>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/16/Kasi-Textfield-2.webp" alt="" width="1600" height="983"></figure>
+<p> </p>
+<h3>Table</h3>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/16/Kashi-table.webp" alt="" width="1600" height="1158"></figure>
+<p> </p>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/16/Kashi-action-table.webp" alt="" width="1600" height="1405"></figure>
 <p> </p>
 <p> </p>
             ]]>
