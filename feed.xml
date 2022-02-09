@@ -3,7 +3,7 @@
     <title>Taha Mousavi</title>
     <link href="https://tahamousavi.github.io/feed.xml" rel="self" />
     <link href="https://tahamousavi.github.io" />
-    <updated>2022-02-07T02:53:25+03:30</updated>
+    <updated>2022-02-09T22:03:51+03:30</updated>
     <author>
         <name>Taha Mousavi</name>
     </author>
@@ -14,14 +14,15 @@
         <author>
             <name>Taha Mousavi</name>
         </author>
-        <link href="https://tahamousavi.github.io/about-me-cv.html"/>
-        <id>https://tahamousavi.github.io/about-me-cv.html</id>
+        <link href="https://tahamousavi.github.io/about-me-cv-3.html"/>
+        <id>https://tahamousavi.github.io/about-me-cv-3.html</id>
 
-        <updated>2022-02-07T02:53:25+03:30</updated>
+        <updated>2022-02-09T19:34:44+03:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <p><span data-preserver-spaces="true">My name is <strong>Taha Mousavi</strong>. </span><span data-preserver-spaces="true">In 10 years, I've worked as the first and sole product designer in the most successful startups in Iran like; </span><a target="_blank" href="https://www.linkedin.com/company/divarofficial/about/" class="editor-rtfLink" rel="noopener"><em><span data-preserver-spaces="true">Divar</span></em></a><span data-preserver-spaces="true">, </span><a target="_blank" href="https://www.linkedin.com/company/tapsi/about/" class="editor-rtfLink" rel="noopener"><em><span data-preserver-spaces="true">TAPSI</span></em></a><span data-preserver-spaces="true">, </span><a target="_blank" href="https://www.linkedin.com/company/torob/about/" class="editor-rtfLink" rel="noopener"><em><span data-preserver-spaces="true">Torob</span></em></a><span data-preserver-spaces="true">, and </span><a target="_blank" href="https://www.linkedin.com/company/porsline/about/" class="editor-rtfLink" rel="noopener"><em><span data-preserver-spaces="true">Porsline</span></em></a><span data-preserver-spaces="true">. </span></p>
+<p><span data-preserver-spaces="true">After working as a multi-disciplinary designer and designing products used by millions of Iranian people, I am eager to work with international and multicultural companies to learn more about other </span>cultures and nations and design products with and for them.</p>
 <p><strong><a href="https://tahamousavi.github.io/Taha Mousavi CV.pdf" target="_blank" rel="noopener noreferrer" download>[ Download CV ]</a></strong><br><strong><a href="https://www.linkedin.com/in/tahamousavi" target="_blank" rel="noopener noreferrer">[ Linkedin Profile ]</a></strong><br>Email: taha.mousavi@gmail.com</p>
 <hr>
 <h3>EXPERIENCE</h3>
@@ -250,6 +251,61 @@
         </content>
     </entry>
     <entry>
+        <title>Specto: A Three Day Challenge By Swift UI Jam</title>
+        <author>
+            <name>Taha Mousavi</name>
+        </author>
+        <link href="https://tahamousavi.github.io/specto-3-days-challenge-for-swift-ui-jam.html"/>
+        <id>https://tahamousavi.github.io/specto-3-days-challenge-for-swift-ui-jam.html</id>
+            <category term="Product Design"/>
+
+        <updated>2022-02-09T22:03:51+03:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tahamousavi.github.io/media/posts/18/specto-banner.jpeg" alt="" />
+                <p><strong>Specto</strong> is an audio visualizer application that also transcribes user input using Apple speech recognition API. Each recording session is tagged with highlighted keywords by the TextRank algorithm. Designed and developed by Taha Mousavi, Abbas Mousavi and Moeen Zamani for <a href="https://swiftuijam.com/" target="_blank" rel="noopener noreferrer">SwiftUI Jam</a>, Feb 2021.</p>
+<p><a href="https://github.com/moeenz/Specto" target="_blank" rel="noopener noreferrer">[Source Code on Github]</a></p>
+<p dir="auto">In 3 days, I worked on Finding creative ways to visualize recorded voice and naming the recorded voice files.</p>
+<h3 dir="auto">Visualization</h3>
+<p dir="auto">For visualization, I suggested using the FFT method for detecting frequencies and using that for creating a pattern on a vinyl disc. After several tests and improvements, Abbas and Moeen found an optimum and beautiful method to implement it.</p>
+<figure class="post__image post__image--center"><img  src="https://tahamousavi.github.io/media/posts/18/wireframe-2.jpeg" alt="" width="4032" height="3024"></figure>
+<p dir="auto"> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/18/gallery/IMG_5311.jpg" data-size="1125x2436"><img src="https://tahamousavi.github.io/media/posts/18/gallery/IMG_5311-thumbnail.jpg" alt="" width="720" height="1559"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/18/gallery/IMG_0336.jpg" data-size="1091x1911"><img src="https://tahamousavi.github.io/media/posts/18/gallery/IMG_0336-thumbnail.jpg" alt="" width="720" height="1261"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/18/gallery/Image-2-11-21-at-11.18-PM.jpg" data-size="544x931"><img src="https://tahamousavi.github.io/media/posts/18/gallery/Image-2-11-21-at-11.18-PM-thumbnail.jpg" alt="" width="544" height="931"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/18/gallery/Simulator-Screen-Shot-iPhone-12-Pro-Max-2021-02-17-at-01.00.35.jpg" data-size="1284x2778"><img src="https://tahamousavi.github.io/media/posts/18/gallery/Simulator-Screen-Shot-iPhone-12-Pro-Max-2021-02-17-at-01.00.35-thumbnail.jpg" alt="" width="720" height="1558"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/18/gallery/Simulator-Screen-Shot-iPhone-12-Pro-Max-2021-02-18-at-00.46.12.jpg" data-size="1284x2778"><img src="https://tahamousavi.github.io/media/posts/18/gallery/Simulator-Screen-Shot-iPhone-12-Pro-Max-2021-02-18-at-00.46.12-thumbnail.jpg" alt="" width="720" height="1558"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/18/gallery/gallery-concept.png" data-size="750x1334"><img src="https://tahamousavi.github.io/media/posts/18/gallery/gallery-concept-thumbnail.png" alt="" width="720" height="1281"></a></figure>
+</div></div>
+<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/675567001?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/675566930?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p dir="auto">We uses angular gradients to project the FFT to concentric circle paths. The whole image shows 50 FFTs calculated five times per second each with 33 components which makes 1650 visual components in total. We started with multiple curves in different colors but that implementation was slow, so we switched to angular gradients producing smoother graphics with much better performance.</p>
+<p dir="auto">Here are the final results for different voice recorded. </p>
+<figure class="post__image post__image--wide"><img  src="https://tahamousavi.github.io/media/posts/18/pattern-on-vinyl-disc.webp" alt="" width="1600" height="1070"></figure>
+<p dir="auto"> </p>
+<h3 dir="auto">Prototypes</h3>
+<p dir="auto">Interactive prototypes by <strong>Principle</strong>.</p>
+<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/675566982?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/675566958?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h3 dir="auto">Naming of files</h3>
+<p dir="auto">For naming the recorded file, We use highlighted keywords by the TextRank algorithm. By using different fonts and colors, Specto assigns three words to every file and creates an album cover for them.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/18/gallery/Hand-picked-cover-from-Unsplash.png" data-size="750x1334"><img src="https://tahamousavi.github.io/media/posts/18/gallery/Hand-picked-cover-from-Unsplash-thumbnail.png" alt="" width="720" height="1281"></a></figure>
+<figure class="gallery__item"><a href="https://tahamousavi.github.io/media/posts/18/gallery/Smooth-graidient-on-cover.png" data-size="750x1334"><img src="https://tahamousavi.github.io/media/posts/18/gallery/Smooth-graidient-on-cover-thumbnail.png" alt="" width="720" height="1281"></a></figure>
+</div></div>
+<h3 dir="auto"> </h3>
+<h3 dir="auto">App Icon</h3>
+<p>App icon inspired by 45 rpm adapters.</p>
+<figure class="post__image post__image--center"><img  src="https://tahamousavi.github.io/media/posts/18/IMG_5783.jpg" alt="" width="4032" height="3024"></figure>
+<figure class="post__image post__image--center"><img  src="https://tahamousavi.github.io/media/posts/18/specto-app-icon-2.webp" alt="" width="1600" height="1200"></figure>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Product Design at Miare</title>
         <author>
             <name>Taha Mousavi</name>
@@ -356,7 +412,7 @@
         <id>https://tahamousavi.github.io/kashi-a-design-language.html</id>
             <category term="Product Design"/>
 
-        <updated>2021-12-20T21:25:13+03:30</updated>
+        <updated>2022-02-09T18:22:44+03:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
